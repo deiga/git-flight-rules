@@ -1,4 +1,4 @@
-# Flight rules for git
+# Flight rules for git boop
 
 #### What are "flight rules"?
 
